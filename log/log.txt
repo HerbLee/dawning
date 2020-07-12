@@ -1,0 +1,2 @@
+2020-07-12 18:37:03,191 - util.log - INFO - user 127.0.0.1 request /favicon.ico 
+2020-07-12 23:39:32,630 - util.log - INFO - user 127.0.0.1 request /api/finance/fund/get_data 

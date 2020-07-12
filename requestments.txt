@@ -1,0 +1,5 @@
+aiomysql==0.0.20
+sanic==20.6.3
+tortoise-orm==0.16.13
+jinja2==2.10.3
+pyyaml==5.3.1
